@@ -1,0 +1,8 @@
+{
+  "name": "TaskApi",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "exportsOverride": {}
+}
